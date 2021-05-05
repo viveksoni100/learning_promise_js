@@ -1,0 +1,38 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Mukta:wght@200;300;400;500;600;700;800&display=swap');
+@import "variable.css";
+
+
+/* color */
+
+.white{
+    color:var(--white);
+}
+
+.uppercase{
+    text-transform: uppercase;
+}
+.capitalize{
+    text-transform: capitalize;
+}
+.font-xl{
+    font-size: 45px;
+    font-weight: 600;
+}
+.font-lg{
+    font-size: 35px;
+    font-weight: 600;
+}
+.font-md{
+    font-size: 25px;
+    font-weight: 300;
+}
+.black{
+    color:var(--black);
+}
+.orange-color{
+    color:var(--orange);
+}
+.grey-black{
+    color:var(--greyBlack);
+}
